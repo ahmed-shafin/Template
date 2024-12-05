@@ -1,7 +1,12 @@
 # KACTL
 
+<<<<<<< HEAD
 This repo hosts KACTL, [KTH](https://en.wikipedia.org/wiki/KTH_Royal_Institute_of_Technology)'s ICPC team reference document.
 It consists of 25 pages of copy-pasteable C++ code, for use in ICPC-style programming competitions.
+=======
+## Adding new code
+Upload it to content/appropriate-directory, add the following lines to the beginning of your code
+>>>>>>> 72bd9b80bbe2520260a32df44b9e9b03622bdf8e
 
 See [kactl.pdf](./kactl.pdf) for the final, browsable version, and [content/](./content/) for raw source code.
 
