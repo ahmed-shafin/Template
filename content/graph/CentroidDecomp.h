@@ -3,14 +3,13 @@
  * Date: 2015-02-23
  * License: CC0
  * Source: http://en.wikipedia.org/wiki/Bellman-Ford_algorithm
- * Description: Centroid decomposition on nodes, useful for building the centroid tree
+ * Description: Centroid decomposition on nodes 
+ * \texttt{p[u] = parent of u in centroid tree}\\
+ * \texttt{d[x][u] = distance from u to a parent of u at level x of centroid tree}\\
+ * \texttt{if u is in subtree of centroid c, then d[lvl[c]][u] = dist(c, l)}\\
  * Time: O(VlogV)
  * Status: Tested on kattis:shortestpath3
  */
-// p[u] = parent of u in centroid tree
-// d[x][u] = distance from u to a parent of u at level x of centroid tree
-//           if u is in subtree of centroid c, then d[lvl[c]][u] = dist(c, l)
-// If (x, y) edge exist, then x must be in adj[y] and y must be in adj[x]
 const int maxn = 1e5 + 10; 
 vector<int> adj[maxn]; 
 int lvl[maxn], sub[maxn], p[maxn], vis[maxn], d[18][maxn], ans[maxn];
@@ -38,7 +37,6 @@ void decompose(int u, int par) {
 	for(int v : adj[c]) if(v - par && !vis[v]) 
 		decompose(v, c);
 }
-
 void update(int u) {
 	for(int v = u; v + 1; v = p[v]) 
 		ans[v] = min(ans[v], d[lvl[v]][u]);

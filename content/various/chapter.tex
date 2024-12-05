@@ -6,6 +6,7 @@
 	\kactlimport{ConstantIntervals.h}
 
 \section{Misc. algorithms}
+    \kactlimport{TernaryDouble.h}
 	\kactlimport{TernarySearch.h}
 	\kactlimport{LIS.h}
 	\kactlimport{FastKnapsack.h}
@@ -17,6 +18,9 @@
 \section{Optimization tricks}
 	\subsection{Bit hacks}
 		\begin{itemize}
+            \item \verb@__builtin_popcount(unsigned int x)@ - Counts the number of set bits
+            \item \verb@__builtin_clz(unsigned int x)@ - Counts the leading zeroes in an integer
+            \item \verb@__builtin_ctz(unsigned int x)@ - Counts the trailing zeroes in an integer
 			\item \verb@x & -x@ is the least bit in \texttt{x}.
 			\item \verb@for (int x = m; x; ) { --x &= m; ... }@ loops over all subset masks of \texttt{m} (except \texttt{m} itself).
 			\item \verb@c = x&-x, r = x+c; (((r^x) >> 2)/c) | r@ is the next number after \texttt{x} with the same number of bits set.

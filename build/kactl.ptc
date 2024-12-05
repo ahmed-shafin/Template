@@ -127,6 +127,7 @@
 \contentsline {subsection}{\texttt {LinkCutTree.h}\hspace {0.2em}}{15}{lstnumber.7.19.46}%
 \contentsline {subsection}{\texttt {DSUonTree.h}\hspace {0.2em}}{15}{lstnumber.7.20.90}%
 \contentsline {subsection}{\texttt {CentroidDecomp.h}\hspace {0.2em}}{15}{lstnumber.7.21.21}%
+\contentsline {subsection}{\texttt {Kruskal.h}\hspace {0.2em}}{16}{lstnumber.7.22.37}%
 \contentsline {section}{\numberline {7.6}Math}{16}{section.7.6}%
 \contentsline {subsection}{\numberline {7.6.1}Number of Spanning Trees}{16}{subsection.7.6.1}%
 \contentsline {subsection}{\numberline {7.6.2}Erdős–Gallai theorem}{16}{subsection.7.6.2}%
@@ -140,9 +141,9 @@
 \contentsline {subsection}{\texttt {SegmentIntersection.h}\hspace {0.2em}}{16}{lstnumber.8.3.6}%
 \contentsline {subsection}{\texttt {lineIntersection.h}\hspace {0.2em}}{16}{lstnumber.8.4.13}%
 \contentsline {subsection}{\texttt {sideOf.h}\hspace {0.2em}}{16}{lstnumber.8.5.8}%
-\contentsline {subsection}{\texttt {OnSegment.h}\hspace {0.2em}}{16}{lstnumber.8.6.9}%
-\contentsline {subsection}{\texttt {linearTransformation.h}\hspace {0.2em}}{16}{lstnumber.8.7.3}%
-\contentsline {subsection}{\texttt {LineProjectionReflection.h}\hspace {0.2em}}{16}{lstnumber.8.8.6}%
+\contentsline {subsection}{\texttt {OnSegment.h}\hspace {0.2em}}{17}{lstnumber.8.6.9}%
+\contentsline {subsection}{\texttt {linearTransformation.h}\hspace {0.2em}}{17}{lstnumber.8.7.3}%
+\contentsline {subsection}{\texttt {LineProjectionReflection.h}\hspace {0.2em}}{17}{lstnumber.8.8.6}%
 \contentsline {subsection}{\texttt {PolarSort.h}\hspace {0.2em}}{17}{lstnumber.8.9.5}%
 \contentsline {subsection}{\texttt {Angle.h}\hspace {0.2em}}{17}{lstnumber.8.10.10}%
 \contentsline {section}{\numberline {8.2}Circles}{17}{section.8.2}%
@@ -151,9 +152,9 @@
 \contentsline {subsection}{\texttt {CircleLine.h}\hspace {0.2em}}{17}{lstnumber.8.13.13}%
 \contentsline {subsection}{\texttt {CirclePolygonIntersection.h}\hspace {0.2em}}{17}{lstnumber.8.14.9}%
 \contentsline {subsection}{\texttt {circumcircle.h}\hspace {0.2em}}{17}{lstnumber.8.15.19}%
-\contentsline {subsection}{\texttt {MinimumEnclosingCircle.h}\hspace {0.2em}}{17}{lstnumber.8.16.9}%
-\contentsline {section}{\numberline {8.3}Polygons}{17}{section.8.3}%
-\contentsline {subsection}{\texttt {InsidePolygon.h}\hspace {0.2em}}{17}{section.8.3}%
+\contentsline {subsection}{\texttt {MinimumEnclosingCircle.h}\hspace {0.2em}}{18}{lstnumber.8.16.9}%
+\contentsline {section}{\numberline {8.3}Polygons}{18}{section.8.3}%
+\contentsline {subsection}{\texttt {InsidePolygon.h}\hspace {0.2em}}{18}{section.8.3}%
 \contentsline {subsection}{\texttt {PolygonArea.h}\hspace {0.2em}}{18}{lstnumber.8.18.11}%
 \contentsline {subsection}{\texttt {PolygonCenter.h}\hspace {0.2em}}{18}{lstnumber.8.19.6}%
 \contentsline {subsection}{\texttt {PolygonCut.h}\hspace {0.2em}}{18}{lstnumber.8.20.9}%
@@ -161,20 +162,20 @@
 \contentsline {subsection}{\texttt {ConvexHull.h}\hspace {0.2em}}{18}{lstnumber.8.22.33}%
 \contentsline {subsection}{\texttt {HullDiameter.h}\hspace {0.2em}}{18}{lstnumber.8.23.13}%
 \contentsline {subsection}{\texttt {PointInsideHull.h}\hspace {0.2em}}{18}{lstnumber.8.24.12}%
-\contentsline {subsection}{\texttt {LineHullIntersection.h}\hspace {0.2em}}{18}{lstnumber.8.25.14}%
-\contentsline {subsection}{\texttt {PolygonTangent.h}\hspace {0.2em}}{18}{lstnumber.8.26.39}%
-\contentsline {subsection}{\texttt {Star.h}\hspace {0.2em}}{19}{lstnumber.8.27.43}%
+\contentsline {subsection}{\texttt {LineHullIntersection.h}\hspace {0.2em}}{19}{lstnumber.8.25.14}%
+\contentsline {subsection}{\texttt {PolygonTangent.h}\hspace {0.2em}}{19}{lstnumber.8.26.39}%
+\contentsline {subsection}{\texttt {Star.h}\hspace {0.2em}}{19}{lstnumber.8.27.59}%
 \contentsline {section}{\numberline {8.4}Misc. Point Set Problems}{19}{section.8.4}%
 \contentsline {subsection}{\texttt {ClosestPair.h}\hspace {0.2em}}{19}{section.8.4}%
 \contentsline {subsection}{\texttt {ManhattanMST.h}\hspace {0.2em}}{19}{lstnumber.8.29.17}%
 \contentsline {subsection}{\texttt {kdTree.h}\hspace {0.2em}}{19}{lstnumber.8.30.23}%
-\contentsline {subsection}{\texttt {FastDelaunay.h}\hspace {0.2em}}{19}{lstnumber.8.31.63}%
+\contentsline {subsection}{\texttt {FastDelaunay.h}\hspace {0.2em}}{20}{lstnumber.8.31.63}%
 \contentsline {section}{\numberline {8.5}3D}{20}{section.8.5}%
 \contentsline {subsection}{\texttt {PolyhedronVolume.h}\hspace {0.2em}}{20}{section.8.5}%
 \contentsline {subsection}{\texttt {Point3D.h}\hspace {0.2em}}{20}{lstnumber.8.33.6}%
 \contentsline {subsection}{\texttt {3dHull.h}\hspace {0.2em}}{20}{lstnumber.8.34.32}%
-\contentsline {subsection}{\texttt {sphericalDistance.h}\hspace {0.2em}}{20}{lstnumber.8.35.49}%
-\contentsline {chapter}{\numberline {9}Strings}{20}{chapter.9}%
+\contentsline {subsection}{\texttt {sphericalDistance.h}\hspace {0.2em}}{21}{lstnumber.8.35.49}%
+\contentsline {chapter}{\numberline {9}Strings}{21}{chapter.9}%
 \ttl@stoptoc {chapters@8}
 \ttl@starttoc {chapters@9}
 \contentsline {section}{\texttt {KMP.h}\hspace {0.2em}}{21}{chapter.9}%
@@ -183,27 +184,29 @@
 \contentsline {section}{\texttt {MinRotation.h}\hspace {0.2em}}{21}{lstnumber.9.3.13}%
 \contentsline {section}{\texttt {SuffixArray.h}\hspace {0.2em}}{21}{lstnumber.9.4.8}%
 \contentsline {section}{\texttt {SuffixTree.h}\hspace {0.2em}}{21}{lstnumber.9.5.22}%
-\contentsline {section}{\texttt {Hashing.h}\hspace {0.2em}}{21}{lstnumber.9.6.50}%
-\contentsline {section}{\texttt {SuffixAutomaton.h}\hspace {0.2em}}{22}{lstnumber.9.7.44}%
-\contentsline {section}{\texttt {Tokenize.h}\hspace {0.2em}}{22}{lstnumber.9.8.41}%
-\contentsline {section}{\texttt {Lyndon.h}\hspace {0.2em}}{22}{lstnumber.9.9.35}%
-\contentsline {chapter}{\numberline {10}Various}{22}{chapter.10}%
+\contentsline {section}{\texttt {SuffixArrayCPAlgo.h}\hspace {0.2em}}{22}{lstnumber.9.6.50}%
+\contentsline {section}{\texttt {Hashing-codeforces.h}\hspace {0.2em}}{22}{lstnumber.9.7.58}%
+\contentsline {section}{\texttt {SuffixAutomaton.h}\hspace {0.2em}}{22}{lstnumber.9.8.52}%
+\contentsline {section}{\texttt {Tokenize.h}\hspace {0.2em}}{22}{lstnumber.9.9.41}%
+\contentsline {section}{\texttt {Lyndon.h}\hspace {0.2em}}{23}{lstnumber.9.10.35}%
+\contentsline {chapter}{\numberline {10}Various}{23}{chapter.10}%
 \ttl@stoptoc {chapters@9}
 \ttl@starttoc {chapters@10}
-\contentsline {section}{\numberline {10.1}Intervals}{22}{section.10.1}%
-\contentsline {subsection}{\texttt {IntervalContainer.h}\hspace {0.2em}}{22}{section.10.1}%
-\contentsline {subsection}{\texttt {IntervalCover.h}\hspace {0.2em}}{22}{lstnumber.10.1.23}%
-\contentsline {subsection}{\texttt {ConstantIntervals.h}\hspace {0.2em}}{22}{lstnumber.10.2.19}%
+\contentsline {section}{\numberline {10.1}Intervals}{23}{section.10.1}%
+\contentsline {subsection}{\texttt {IntervalContainer.h}\hspace {0.2em}}{23}{section.10.1}%
+\contentsline {subsection}{\texttt {IntervalCover.h}\hspace {0.2em}}{23}{lstnumber.10.1.23}%
+\contentsline {subsection}{\texttt {ConstantIntervals.h}\hspace {0.2em}}{23}{lstnumber.10.2.19}%
 \contentsline {section}{\numberline {10.2}Misc. algorithms}{23}{section.10.2}%
-\contentsline {subsection}{\texttt {TernarySearch.h}\hspace {0.2em}}{23}{section.10.2}%
-\contentsline {subsection}{\texttt {LIS.h}\hspace {0.2em}}{23}{lstnumber.10.4.11}%
-\contentsline {subsection}{\texttt {FastKnapsack.h}\hspace {0.2em}}{23}{lstnumber.10.5.17}%
-\contentsline {section}{\numberline {10.3}Dynamic programming}{23}{section.10.3}%
-\contentsline {subsection}{\texttt {KnuthDP.h}\hspace {0.2em}}{23}{section.10.3}%
-\contentsline {subsection}{\texttt {DivideAndConquerDP.h}\hspace {0.2em}}{23}{lstnumber.10.7.1}%
-\contentsline {section}{\numberline {10.4}Optimization tricks}{23}{section.10.4}%
-\contentsline {subsection}{\numberline {10.4.1}Bit hacks}{23}{subsection.10.4.1}%
-\contentsline {subsection}{\numberline {10.4.2}Pragmas}{23}{subsection.10.4.2}%
+\contentsline {subsection}{\texttt {TernaryDouble.h}\hspace {0.2em}}{23}{section.10.2}%
+\contentsline {subsection}{\texttt {TernarySearch.h}\hspace {0.2em}}{23}{lstnumber.10.4.14}%
+\contentsline {subsection}{\texttt {LIS.h}\hspace {0.2em}}{23}{lstnumber.10.5.11}%
+\contentsline {subsection}{\texttt {FastKnapsack.h}\hspace {0.2em}}{24}{lstnumber.10.6.17}%
+\contentsline {section}{\numberline {10.3}Dynamic programming}{24}{section.10.3}%
+\contentsline {subsection}{\texttt {KnuthDP.h}\hspace {0.2em}}{24}{section.10.3}%
+\contentsline {subsection}{\texttt {DivideAndConquerDP.h}\hspace {0.2em}}{24}{lstnumber.10.8.1}%
+\contentsline {section}{\numberline {10.4}Optimization tricks}{24}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}Bit hacks}{24}{subsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.4.2}Pragmas}{24}{subsection.10.4.2}%
 \ttl@stoptoc {chapters@10}
 \ttl@starttoc {chapters@11}
 \contentsfinish 
