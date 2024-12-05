@@ -1,7 +1,7 @@
 # Template
 
-##Adding new code
-Upload it to content->appropritae directory, add the following lines to the beginning of your code
+## Adding new code
+Upload it to content/appropriate-directory, add the following lines to the beginning of your code
 
 ```
 /**
