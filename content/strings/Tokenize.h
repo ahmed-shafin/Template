@@ -13,11 +13,9 @@ string trim(const string& str) {
     return "";
   return str.substr(first, (last - first + 1));
 }
-
 bool isDelimiter(char ch, const set<char>& delimiters) {
   return delimiters.find(ch) != delimiters.end();
 }
-
 vector<string> tokenize(const string& input, const string& delimiters) {
   set<char> delimiterSet(delimiters.begin(), delimiters.end());
   vector<string> tokens;
@@ -34,10 +32,7 @@ vector<string> tokenize(const string& input, const string& delimiters) {
       token += ch;
     }
   }
-
-  if (!token.empty()) {
-    tokens.push_back(token);
-  }
-
+  if (!token.empty()) tokens.push_back(token);
+  
   return tokens;
 }
